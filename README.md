@@ -5,4 +5,5 @@ CapitaliseName.java , FindLength.java , FindVowels.java , Palindrome.java , Spli
 # Calculate Age Programs 
 CalculateAge.java , ValidMonth.java , ValidYear.java , Validday.java , main_verifyBirthDateMonthYear.java
 # Generic 
-EvenOdd.java , LuckyRandomNumber.java , variables.java
+EvenOdd.java , LuckyRandomNumber.java , 
+variables.java ( using - getFields() , getDeclaredFields() , getDeclaredMethods() )
